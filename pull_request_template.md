@@ -9,6 +9,5 @@ Describe the big picture of your changes here. If it fixes a bug or resolves a f
 - [ ] Pull request adheres to the code style of this project
 - [ ] Your code builds clean without any errors or warnings
 - [ ] Lint and unit tests pass locally (if appropriate)
-- [ ] I have added necessary documentation (if appropriate)
 - [ ] I have updated the documentation as required
 
